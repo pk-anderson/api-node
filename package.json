@@ -1,0 +1,19 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pk-anderson/api-node.git"
+  },
+  "author": "Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk-anderson/api-node/issues"
+  },
+  "homepage": "https://github.com/pk-anderson/api-node#readme"
+}
