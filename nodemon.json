@@ -1,0 +1,9 @@
+{
+  "env":{
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "hbkpatrick",
+    "MYSQL_DATABASE": "ecommer",
+    "MYSQL_HOST": "localhost",
+    "MYSQL_PORT": 3306
+  }
+}

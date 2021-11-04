@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pk-anderson/api-node/issues"
   },
-  "homepage": "https://github.com/pk-anderson/api-node#readme"
+  "homepage": "https://github.com/pk-anderson/api-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.2"
+  }
 }
